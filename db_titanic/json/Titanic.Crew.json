@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "667bfaeeefa8bec0cf43aac2"
+  },
+  "first_name": "Thomas",
+  "last_name": "Andrews",
+  "assignedBoat_id": {
+    "$oid": "667bfadfefa8bec0cf43aabc"
+  },
+  "role": "Chief Designer",
+  "cabin": {
+    "cabin_name": "A",
+    "cabin_number": "10",
+    "deck": "B"
+  }
+},
+{
+  "_id": {
+    "$oid": "667bfaeeefa8bec0cf43aac3"
+  },
+  "first_name": "Edward",
+  "last_name": "Smith",
+  "assignedBoat_id": {
+    "$oid": "667bfadfefa8bec0cf43aabd"
+  },
+  "role": "Captain",
+  "cabin": {
+    "cabin_name": "C",
+    "cabin_number": "50",
+    "deck": "A"
+  }
+},
+{
+  "_id": {
+    "$oid": "667bfaeeefa8bec0cf43aac4"
+  },
+  "first_name": "Henry",
+  "last_name": "Wilde",
+  "assignedBoat_id": {
+    "$oid": "667bfadfefa8bec0cf43aabe"
+  },
+  "role": "Chief Officer",
+  "cabin": {
+    "cabin_name": "D",
+    "cabin_number": "22",
+    "deck": "C"
+  }
+}]

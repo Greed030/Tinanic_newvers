@@ -1,0 +1,33 @@
+[{
+  "_id": {
+    "$oid": "667bfad4efa8bec0cf43aab8"
+  },
+  "ticket_code": "PC 17599",
+  "pClass": "1",
+  "boarding_port": "Southampton",
+  "destination_port": "New York",
+  "ticket_count": 1,
+  "fare": 71.2833
+},
+{
+  "_id": {
+    "$oid": "667bfad4efa8bec0cf43aab9"
+  },
+  "ticket_code": "CA 2144",
+  "pClass": "2",
+  "boarding_port": "Cherbourg",
+  "destination_port": "New York",
+  "ticket_count": 2,
+  "fare": 30.0708
+},
+{
+  "_id": {
+    "$oid": "667bfad4efa8bec0cf43aaba"
+  },
+  "ticket_code": "A/5 21171",
+  "pClass": "3",
+  "boarding_port": "Queenstown",
+  "destination_port": "New York",
+  "ticket_count": 3,
+  "fare": 24.15
+}]

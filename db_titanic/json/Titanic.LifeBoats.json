@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "667bfadfefa8bec0cf43aabc"
+  },
+  "capacity": 65,
+  "launchTime": "01:30",
+  "survivorsCount": 35
+},
+{
+  "_id": {
+    "$oid": "667bfadfefa8bec0cf43aabd"
+  },
+  "capacity": 40,
+  "launchTime": "01:45",
+  "survivorsCount": 28
+},
+{
+  "_id": {
+    "$oid": "667bfadfefa8bec0cf43aabe"
+  },
+  "capacity": 47,
+  "launchTime": "02:00",
+  "survivorsCount": 20
+}]
